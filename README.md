@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Lucas! ✋🏻
 <hr><img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 <div style="display: inline_block">
-Sou apaixonado por programação e estou em constante evolução. Estou imerso no universo do desenvolvimento de software, explorando seus aspectos e desafios. Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar. Vamos juntos transformar linhas de código em soluções extraordinárias! 🚀
+Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no universo do desenvolvimento de software, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos juntos transformar linhas de código em soluções extraordinárias! 🚀
 </div>
 <h3>Tecnologias que eu utilizo no meu dia a dia:</h3>
 <div style="display: inline_block">
