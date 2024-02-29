@@ -3,7 +3,10 @@
 <div style="display: inline_block">
 Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no universo do desenvolvimento de software, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos juntos transformar linhas de código em soluções extraordinárias! 🚀
 </div>
-<h3>Tecnologias que eu utilizo no meu dia a dia:</h3>
+
+<hr>
+
+### Tecnologias que eu utilizo no meu dia a dia:
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,3 +21,9 @@ Sou apaixonado por programação e estou em constante evolução.<br/> Estou ime
 <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img align="center" alt="prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
 </div>
+
+<hr>
+
+### Contatos:
+Email: joaolucasgusmao@hotmail.com<br/>
+Celular: (44) 9 9813-4433<br/>
