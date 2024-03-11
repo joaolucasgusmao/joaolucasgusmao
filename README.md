@@ -1,9 +1,13 @@
 ### Olá, eu sou o João Lucas! ✋🏻
-<hr>
-<div style="display: inline_block">
-Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no universo do desenvolvimento de software, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos juntos transformar linhas de código em soluções extraordinárias! 🚀
-</div>
 
+<hr>
+Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no universo do desenvolvimento de software, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos juntos transformar linhas de código em soluções extraordinárias! 🚀
+
+<div>
+<br/>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact)
+</div>
 <hr>
 
 ### Tecnologias que eu utilizo no meu dia a dia:
