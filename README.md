@@ -1,7 +1,7 @@
-### Olá, eu sou o João Lucas! ✋🏻
+### Hello, I'm João Lucas! ✋🏻
 
 <hr>
-Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no universo do desenvolvimento de software, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos juntos transformar linhas de código em soluções extraordinárias! 🚀
+I'm passionate about programming and I'm constantly evolving.<br/> I am immersed in the world of software development, exploring its aspects and challenges.<br/> Each project is an opportunity for growth, and I am always eager to learn and collaborate.<br/> Let's turn lines of code into extraordinary solutions together! 🚀
 
 <div>
 <br/>
@@ -10,7 +10,7 @@ Sou apaixonado por programação e estou em constante evolução.<br/> Estou ime
 </div>
 <hr>
 
-### Tecnologias que eu utilizo no meu dia a dia:
+### Technologies that I use in my daily life:
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -29,6 +29,6 @@ Sou apaixonado por programação e estou em constante evolução.<br/> Estou ime
 
 <hr>
 
-### Contatos:
-Email: joaolucasgusmao@hotmail.com<br/>
-Celular: (44) 9 9813-4433<br/>
+### Contacts:
+E-mail: joaolucasgusmao@hotmail.com<br/>
+Cell phone: +55 (44) 9 9813-4433<br/>
