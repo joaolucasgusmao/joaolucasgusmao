@@ -1,6 +1,5 @@
-### Hello, I'm João Lucas! ✋🏻
+# Hello, I'm João Lucas! ✋🏻
 
-<hr>
 I'm passionate about programming and I'm constantly evolving.<br/> I am immersed in the world of software development, exploring its aspects and challenges.<br/> Each project is an opportunity for growth, and I am always eager to learn and collaborate.<br/> Let's turn lines of code into extraordinary solutions together! 🚀
 
 <div>
@@ -8,9 +7,10 @@ I'm passionate about programming and I'm constantly evolving.<br/> I am immersed
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact)
 </div>
-<hr>
 
-### Technologies that I use in my daily life:
+
+## Technologies that I use in my daily life:
+
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -27,8 +27,7 @@ I'm passionate about programming and I'm constantly evolving.<br/> I am immersed
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-<hr>
+## Contacts:
 
-### Contacts:
 E-mail: joaolucasgusmao@hotmail.com<br/>
 Cell phone: +55 (44) 9 9813-4433<br/>
