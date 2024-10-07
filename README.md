@@ -1,15 +1,13 @@
-# Hello, I'm João Lucas! ✋🏻
+# Prazer, João Lucas! ✋🏻
 
-I'm passionate about programming and I'm constantly evolving.<br/> I am immersed in the world of software development, exploring its aspects and challenges.<br/> Each project is an opportunity for growth, and I am always eager to learn and collaborate.<br/> Let's turn lines of code into extraordinary solutions together! 🚀
+Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no mundo do desenvolvimento web, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos transformar linhas de código em soluções extraordinárias juntos! 🚀
 
 <div>
-<br/>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact)
 </div>
 
-
-## Technologies that I use in my daily life:
+## Tecnologias que eu utilizo:
 
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -27,7 +25,7 @@ I'm passionate about programming and I'm constantly evolving.<br/> I am immersed
 <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
-## Contacts:
+## Contatos:
 
 E-mail: joaolucasgusmao@hotmail.com<br/>
-Cell phone: +55 (44) 9 9813-4433<br/>
+Celular: (44) 9 9813-4433<br/>
