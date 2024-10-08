@@ -1,11 +1,9 @@
 # Prazer, João Lucas! ✋🏻
-
 Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no mundo do desenvolvimento web, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos transformar linhas de código em soluções extraordinárias juntos! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact&theme=dark&amp;)
 
 ## Skills:
-
 <div style="display: inline_block">
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,6 +21,5 @@ Sou apaixonado por programação e estou em constante evolução.<br/> Estou ime
 </div>
 
 ## Contatos:
-
 E-mail: joaolucasgusmao@hotmail.com<br/>
 Celular: (44) 9 9813-4433<br/>
