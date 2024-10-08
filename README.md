@@ -2,10 +2,7 @@
 
 Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no mundo do desenvolvimento web, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos transformar linhas de código em soluções extraordinárias juntos! 🚀
 
-<div>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact)
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact&theme=dark&amp;)
 
 ## Skills:
 
