@@ -1,5 +1,5 @@
-# Prazer, João Lucas! ✋🏻
-Sou apaixonado por programação e estou em constante evolução.<br/> Estou imerso no mundo do desenvolvimento web, explorando seus aspectos e desafios.<br/> Cada projeto é uma oportunidade de crescimento, e estou sempre ansioso para aprender e colaborar.<br/> Vamos transformar linhas de código em soluções extraordinárias juntos! 🚀
+# Hi! I’m João Lucas. ✋🏻
+I'm passionate about programming and constantly evolving. I'm immersed in the world of web development, exploring its aspects and challenges. Each project is an opportunity for growth, and I'm always eager to learn and collaborate. Let's transform lines of code into extraordinary solutions together! 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgusmao&layout=compact&theme=dark&amp;)
 
@@ -20,6 +20,6 @@ Sou apaixonado por programação e estou em constante evolução.<br/> Estou ime
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
 
-## Contatos:
+## Contact:
 E-mail: joaolucasgusmao@hotmail.com<br/>
-Celular: (44) 9 9813-4433<br/>
+Phone: +55 (44) 9 9813-4433<br/>
